@@ -1,7 +1,7 @@
 ## Hi, there!
 
 - :brazil: I am Brazillian (Belo Horizonte)
-- :man_student: Bachelor in Information Systems [(IFMG)](https://www.ifmg.edu.br/)
+- :man_student: Bachelor in Information Systems at [IFMG](https://www.ifmg.edu.br/)
 - :nerd_face: Msc. Student at [DCC / UFMG](http://ppgcc.dcc.ufmg.br)
 - :microscope: Member of [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br)
 - :man_technologist: Software Developer at [Studio Sol](https://www.studiosol.com.br)
