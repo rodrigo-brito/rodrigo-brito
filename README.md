@@ -11,6 +11,6 @@
 - [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs (Github Actions / Chrome Extension)
 - [Go City](https://go-city.github.io/) - Code City metaphor for visualizing Go source code (Web Tool)
 
-**Publications**: https://scholar.google.com.br/citations?user=5uKHnJ8AAAAJ
-
-**Talks**: https://slides.com/rodrigo73
+## Other Links
+- [Publications](https://scholar.google.com.br/citations?user=5uKHnJ8AAAAJ)
+- [Talks](https://slides.com/rodrigo73)
