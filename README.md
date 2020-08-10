@@ -14,3 +14,4 @@
 ## Other Links
 - [Publications](https://scholar.google.com.br/citations?user=5uKHnJ8AAAAJ)
 - [Talks](https://slides.com/rodrigo73)
+- [Blog](https://brito.com.br/)
