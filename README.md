@@ -1,6 +1,6 @@
-<h3 align="center">
-	[~]$ whoami
-</h3>
+<h2 align="center" style="font-family: Consolas, monospace;">
+	[~] $ whoami
+</h2>
 
 <p align="center">
 	<strong>
@@ -19,7 +19,7 @@
 - :microscope: Reseacher and Member of [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br)
 - :man_technologist: Software Developer at [Studio Sol](https://www.studiosol.com.br)
 
-## Currently working on
+### Currently working on
 
 - [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs (Github Actions / Chrome Extension)
 - [Go City](https://go-city.github.io/) - Code City metaphor for visualizing Go source code (Web Tool)
