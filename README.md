@@ -17,7 +17,7 @@
 - :man_student: Bachelor in Information Systems at [IFMG](https://www.ifmg.edu.br/)
 - :nerd_face: Master's student in Computer Science at [DCC / UFMG](http://ppgcc.dcc.ufmg.br)
 - :microscope: Reseacher and Member of [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br)
-- :man_technologist: Software Developer at [Studio Sol](https://www.studiosol.com.br)
+- :man_technologist: Software Development Manager at [Studio Sol](https://www.studiosol.com.br)
 
 ### Currently working on
 
