@@ -21,6 +21,6 @@
 
 ### Currently working on
 
+- [Ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency bot implemented in Go
 - [RAID](https://github.com/rodrigo-brito/refactoring-aware-diff) - Refactoring-aware and Intelligent Diffs (Github Actions / Chrome Extension)
-- [Go City](https://go-city.github.io/) - Code City metaphor for visualizing Go source code (Web Tool)
 
