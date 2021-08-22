@@ -14,7 +14,7 @@
 
 
 - :brazil: Brazillian (Belo Horizonte / MG)
-- :nerd_face: Master in Computer Science at ([DCC / UFMG](http://ppgcc.dcc.ufmg.br)/[(ASERG)](http://aserg.labsoft.dcc.ufmg.br))
+- :nerd_face: Master in Computer Science at ([DCC / UFMG](http://ppgcc.dcc.ufmg.br)/[ASERG](http://aserg.labsoft.dcc.ufmg.br))
 - :man_student: Bachelor in Information Systems at [IFMG](https://www.ifmg.edu.br/)
 - :man_technologist: Software Development Manager at [Studio Sol](https://www.studiosol.com.br)
 
