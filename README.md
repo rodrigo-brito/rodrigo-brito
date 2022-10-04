@@ -16,7 +16,7 @@
 - :brazil: Brazillian (Belo Horizonte / MG)
 - :microscope: MSc. Computer Science at ([DCC / UFMG](http://ppgcc.dcc.ufmg.br) / [ASERG](http://aserg.labsoft.dcc.ufmg.br))
 - :man_student: BSc. Information Systems at [IFMG](https://www.ifmg.edu.br/)
-- :man_technologist: Tech Lead at [Studio Sol](https://www.studiosol.com.br)
+- :man_technologist: Software Engineer at [Mercado Livre](https://mercadolibre.com)
 
 ### Currently working on
 
